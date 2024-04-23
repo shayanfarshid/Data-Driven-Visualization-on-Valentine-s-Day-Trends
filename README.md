@@ -15,10 +15,10 @@ Link: https://public.tableau.com/app/profile/shayan.farshid/viz/ValentinesDayVis
 
 **Participation Trends:** A graph to track the percentage of people celebrating Valentine's Day annually.
 
-Some of the key Insights:
+***Key Insights:***
 
-The highest average spend is on jewelry, indicating its popularity as a premium gift choice.
-Younger demographics (18-24) show a marked preference for experience-based gifts such as evening outings.
-A significant shift in per-household spending can be observed around specific years, pointing to economic or social influences on consumer behavior.
-The participation trend has seen a slight uptick in recent years, suggesting a resurgence in the holiday's popularity.
-This dashboard is a useful tool for businesses in the retail sector to tailor their offerings and 
+1. The highest average spend is on jewelry, indicating its popularity as a premium gift choice.
+2. Younger demographics (18-24) show a marked preference for experience-based gifts such as evening outings.
+3. A significant shift in per-household spending can be observed around specific years, pointing to economic or social influences on consumer behavior.
+4. The participation trend has seen a slight uptick in recent years, suggesting a resurgence in the holiday's popularity.
+
