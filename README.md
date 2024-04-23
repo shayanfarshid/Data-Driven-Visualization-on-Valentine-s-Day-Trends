@@ -6,9 +6,13 @@ Link: https://public.tableau.com/app/profile/shayan.farshid/viz/ValentinesDayVis
 **Key features include:**
 
 **Spending Breakdown:** Compares average spending across categories like candies, flowers, and jewelry.
+
 **Age Dynamics:** Analyzes spending preferences across different age brackets.
+
 **Gender Preferences:** Presents a pie chart and scatter plot to visualize the gifting choices between men and women.
+
 **Spending Over Time:** Trends in historical spending per category and per household are mapped out across over a decade.
+
 **Participation Trends:** A graph to track the percentage of people celebrating Valentine's Day annually.
 
 Some of the key Insights:
